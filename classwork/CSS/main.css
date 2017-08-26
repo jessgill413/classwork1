@@ -1,0 +1,17 @@
+li {
+	background-color: pink ;
+	display: block;
+	padding: 10px;
+}
+.box {
+	float: left;
+	width: 50%;
+}
+img {
+	margin: 20px;
+	border: none;
+	padding: 35px;
+}
+.second {
+	color: green;
+}
